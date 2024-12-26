@@ -1,0 +1,34 @@
+.product-details {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .product-details h1 {
+    text-align: center;
+  }
+  
+  .product-info {
+    margin-top: 20px;
+  }
+  
+  .product-info h2 {
+    margin-bottom: 10px;
+  }
+  
+  .product-description {
+    margin-top: 30px;
+  }
+  
+  .product-rating {
+    margin-top: 20px;
+    font-size: 18px;
+  }
+  
+  .product-image img {
+    width: 100%;
+    max-width: 500px;
+    display: block;
+    margin: 0 auto;
+  }
